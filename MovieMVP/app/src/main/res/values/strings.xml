@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MovieMVP</string>
+
+
+    <!--menu-->
+    <string name="menu_mostviwed">Feed</string>
+    <string name="menu_search">Procurar</string>
+    <string name="menu_favorite">Favoritos</string>
+
+    <string name="movieimage">movieImage</string>
+
+    <string name="session_popular">Populares</string>
+    <string name="session_nowplaying">Lançamentos</string>
+    <string name="session_upcoming">Upcoming</string>
+
+    <!--Base URLS-->
+    <string name="image_base_url">https://image.tmdb.org/t/p/w500</string>
+    <string name="image_base_url_original">https://image.tmdb.org/t/p/original</string>
+</resources>
